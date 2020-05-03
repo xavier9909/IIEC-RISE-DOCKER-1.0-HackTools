@@ -35,6 +35,15 @@ systemctl start docker
 ```
 ![demo](https://github.com/xavier9909/hacktools/blob/master/start%20n%20enable%20docker.png)
 
+#BONUS
+#INSTALL DOCKER ON WINDOWS 7
+*Verify your Windows OS is 64-bit (x64)
+*INSTALL DOCKER TOOLBOX
+ *LINK:::(https://github.com/docker/toolbox/releases)
+ ![DEMO](https://github.com/xavier9909/hacktools/blob/master/2020-05-03.png)
+ *AFTER THAT RUB .EXE FILE INSTALL IT
+ ![DEMO](https://docs.docker.com/toolbox/images/installer_open.png)
+
  
  
  
