@@ -12,7 +12,14 @@ These instructions will get you a copy of the project up and running on your loc
 For installing run the commands:
 
 # For Docker Installation on RedHat/Centos:
- Configure yum in RedHat/Centos to add Docker for local installation
+ Prerequisite-yum configured-
+* login as root, open terminal
+* Run command- `cd /etc/yum.repos.d/`
+![go to yum](https://github.com/xavier9909/hacktools/blob/master/go%20to%20yum%20repositories.png)
+
+ 
+ 
+ 
 
 
 # TOOLS
