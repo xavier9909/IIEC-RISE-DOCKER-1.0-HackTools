@@ -52,7 +52,9 @@ docker pull xavier9909/hacktoools:1
 ```
 # Final Step:RUN
 ![DEMO](https://github.com/xavier9909/hacktools/blob/master/projectshowcase.png)
-
+* Command for port scannig :nmap -p- -v URL/IP
+* Fommand for subdoamin listing : knockpy URL
+![demo](https://github.com/xavier9909/IIEC-RISE-DOCKER-1.0-HackTools/blob/master/My%20Video22.mp4)
 # Tools you get
 - altdns 
 - bucket_finder 
