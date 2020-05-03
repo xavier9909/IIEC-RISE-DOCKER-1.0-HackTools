@@ -1,14 +1,14 @@
-# HACKTOOOLS - Docker Project
-hacktools contain some bug hunting tools which can help you to secure your networks,web-apps,server
+# HACKTOOLS - Docker Project
+This project contains few bug hunting tools which can help you to secure your networks, web-apps, server
 etc. 
 
 # NOTE
 THIS IMAGE PURELY MEANT FOR BUGHUNTING N PENTESTING. DO NOT USE THIS IMAGE FOR ANY ILLEGAL ACTIVITIES
 
-# Requirements/installation
+# Requirements/Installation
 These instructions will get you a copy of the project up and running on your local machine
 
-# Make sure you have the latest versions of Docker installed on your machine.
+* ## Make sure you have the latest versions of Docker installed on your machine.
 For installing run the commands:
 
 # For Docker Installation on RedHat/Centos:
@@ -36,40 +36,66 @@ systemctl start docker
 ![demo](https://github.com/xavier9909/hacktools/blob/master/start%20n%20enable%20docker.png)
 
 # BONUS
-# INSTALL DOCKER ON WINDOWS 7
+# Install Docker on Windows 7
  * Verify your Windows OS is 64-bit (x64)
- * INSTALL DOCKER TOOLBOX
- * LINK:::(https://github.com/docker/toolbox/releases)
+ * Install DOCKER TOOLBOX
+ * Link:::(https://github.com/docker/toolbox/releases)
  ![DEMO](https://github.com/xavier9909/hacktools/blob/master/2020-05-03.png)
- * AFTER THAT RUN .EXE FILE INSTALL IT
+ 
+ * ## Now, Run .exe file to Install it
  
  ![DEMO](https://docs.docker.com/toolbox/images/installer_open.png)
  
- # FOR INSTALLING IMAGE 
-    > docker pull xavier9909/hacktoools:1
-    
-# FINAL STEP:RUN
+ # For Installing Image
+    ``` 
+    docker pull xavier9909/hacktoools:1
+    ```
+# Final Step:RUN
 ![DEMO](https://github.com/xavier9909/hacktools/blob/master/projectshowcase.png)
 
- 
- 
- 
+# Tools you get
+- altdns 
+- bucket_finder 
+- CloudFlair 
+- commix
+- dirb
+- dirsearch 
+- dnsenum 
+- dnsrecon
+- gobuster
+- joomscan 
+- Knockpy
+- masscan
+- massdns
+- Nikto
+- Nmap
+- Recon-ng
+- s3recon
+- sqlmap
+- subfinder
+- Sublist3r
+- dotdotpwn
+- teh_s3_bucketeers
+- thc-hydra
+- theHarvester
+- virtual-host-discovery
+- wafw00f
+- wfuzz
+- wpscan
+- XSStrike
+- tmux
+- instainsane
+- proxychain
 
-
-# TOOLS
-altdns,bucket_finder,CloudFlair,commix,dirb,dirsearch,dnsenum,dnsrecon,gobuster,joomscan,Knockpy
-masscan,massdns,Nikto,Nmap,Recon-ng,s3recon,sqlmap,subfinder,Sublist3r,dotdotpwn,teh_s3_bucketeers
-thc-hydra,theHarvester,virtual-host-discovery,wafw00f,wfuzz,wpscan,XSStrike,tmux,instainsane,proxychain
-
- # wordlists
-    >SecLists
-    >rockyou.txt
+ # Wordlists
+    * SecLists
+    * rockyou.txt
  
  
- # Why should bughunters use this toolkit
-    >This toolkit have all the required tools any hunter need
-    >can be customized to add or remove specific tools 
-    >can run in very low-end pc without any problm
+ # Why should bughunters use this Toolkit
+    * This toolkit have all the required tools any hunter need
+    * It can be customized to add or remove specific tools 
+    * It can run in very low-end pc without any problm
  
  
 
