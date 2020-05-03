@@ -5,40 +5,11 @@ etc.
 # NOTE
 THIS IMAGE PURELY MEANT FOR BUGHUNTING N PENTESTING. DO NOT USE THIS IMAGE FOR ANY ILLEGAL ACTIVITIES
 
-# TOOLS 
+# TOOLS
+altdns,bucket_finder,CloudFlair,commix,dirb,dirsearch,dnsenum,dnsrecon,gobuster,joomscan,Knockpy
+masscan,massdns,Nikto,Nmap,Recon-ng,s3recon,sqlmap,subfinder,Sublist3r,dotdotpwn,teh_s3_bucketeers
+thc-hydra,theHarvester,virtual-host-discovery,wafw00f,wfuzz,wpscan,XSStrike,tmux,instainsane,proxychain
 
-    > altdns
-    >bucket_finder
-    >CloudFlair
-    >commix
-    >dirb
-    >dirsearch
-    >dnsenum
-    >dnsrecon
-    >gobuster
-    >joomscan
-    >Knockpy
-    >masscan
-    >massdns
-    >Nikto
-    >Nmap
-    >Recon-ng
-    >s3recon
-    >sqlmap
-    >subfinder
-    >Sublist3r
-    >dotdotpwn
-    >teh_s3_bucketeers
-    >thc-hydra
-    >theHarvester
-    >virtual-host-discovery
-    >wafw00f
-    >wfuzz
-    >wpscan
-    >XSStrike
-    >tmux
-    >instainsane
-    >proxychain
  # wordlists
     >SecLists
     >rockyou.txt
