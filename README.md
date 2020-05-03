@@ -50,7 +50,7 @@ THIS IMAGE PURELY MEANT FOR BUGHUNTING N PENTESTING. DO NOT USE THIS IMAGE FOR A
     >can be customized to add or remove specific tools based on your requirements
     >can run in very low-end pc without any problm
  
- #REQUIREMENTS
+ # REQUIREMENTS
     >OS (win-linux-mac)
     >Docker:latest
     >Internet connection
