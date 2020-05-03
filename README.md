@@ -103,7 +103,7 @@ docker pull xavier9909/hacktoools:1
 * Google (https://www.google.com/)
 * RedHat 8 (https://developers.redhat.com/rhel8/)
 * Docker (https://docs.docker.com/docker-hub/official_images/)
-* ngrok (https://ngrok.com/)
+
  # Author
   Kajal Kashyap
   Shubham Meena
