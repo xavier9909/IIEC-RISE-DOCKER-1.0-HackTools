@@ -47,9 +47,9 @@ systemctl start docker
  ![DEMO](https://docs.docker.com/toolbox/images/installer_open.png)
  
  # For Installing Image
-    ``` 
-    docker pull xavier9909/hacktoools:1
-    ```
+```
+docker pull xavier9909/hacktoools:1
+```
 # Final Step:RUN
 ![DEMO](https://github.com/xavier9909/hacktools/blob/master/projectshowcase.png)
 
@@ -88,14 +88,14 @@ systemctl start docker
 - proxychain
 
  # Wordlists
-    * SecLists
-    * rockyou.txt
+ * SecLists
+ * rockyou.txt
  
  
  # Why should bughunters use this Toolkit
-    * This toolkit have all the required tools any hunter need
-    * It can be customized to add or remove specific tools 
-    * It can run in very low-end pc without any problm
+ * This toolkit have all the required tools any hunter need
+ * It can be customized to add or remove specific tools
+ * It can run in very low-end pc without any problm
  
  
 
