@@ -44,6 +44,12 @@ systemctl start docker
  * AFTER THAT RUN .EXE FILE INSTALL IT
  
  ![DEMO](https://docs.docker.com/toolbox/images/installer_open.png)
+ 
+ # FOR INSTALLING IMAGE 
+    > docker pull xavier9909/hacktoools:1
+    
+# FINAL STEP:RUN
+![DEMO](https://github.com/xavier9909/hacktools/blob/master/projectshowcase.png)
 
  
  
@@ -65,10 +71,5 @@ thc-hydra,theHarvester,virtual-host-discovery,wafw00f,wfuzz,wpscan,XSStrike,tmux
     >can be customized to add or remove specific tools 
     >can run in very low-end pc without any problm
  
- # REQUIREMENTS
-    >OS (win-linux-mac)
-    >Docker:latest
-    >Internet connection
  
- # DOWNLOAD
-     >docker pull 
+
