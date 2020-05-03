@@ -5,6 +5,16 @@ etc.
 # NOTE
 THIS IMAGE PURELY MEANT FOR BUGHUNTING N PENTESTING. DO NOT USE THIS IMAGE FOR ANY ILLEGAL ACTIVITIES
 
+# Requirements/installation
+These instructions will get you a copy of the project up and running on your local machine
+
+# Make sure you have the latest versions of Docker installed on your machine.
+For installing run the commands:
+
+# For Docker Installation on RedHat/Centos:
+ Configure yum in RedHat/Centos to add Docker for local installation
+
+
 # TOOLS
 altdns,bucket_finder,CloudFlair,commix,dirb,dirsearch,dnsenum,dnsrecon,gobuster,joomscan,Knockpy
 masscan,massdns,Nikto,Nmap,Recon-ng,s3recon,sqlmap,subfinder,Sublist3r,dotdotpwn,teh_s3_bucketeers
