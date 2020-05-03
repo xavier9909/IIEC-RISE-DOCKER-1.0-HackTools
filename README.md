@@ -45,9 +45,8 @@ THIS IMAGE PURELY MEANT FOR BUGHUNTING N PENTESTING. DO NOT USE THIS IMAGE FOR A
  
  
  # Why should bughunters use this toolkit
-    >This toolkit offers a multiplatform base to work with as the script can be installed on Linux, 
-    setup with Docker or installed on Windows with WSL (Windows Subsystem For Linux).
-    >can be customized to add or remove specific tools based on your requirements
+    >This toolkit have all the required tools any hunter need
+    >can be customized to add or remove specific tools 
     >can run in very low-end pc without any problm
  
  # REQUIREMENTS
