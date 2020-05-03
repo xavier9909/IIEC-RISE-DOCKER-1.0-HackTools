@@ -17,6 +17,24 @@ For installing run the commands:
 * Run command- `cd /etc/yum.repos.d/`
 ![go to yum](https://github.com/xavier9909/hacktools/blob/master/go%20to%20yum%20repositories.png)
 
+* Now, (To create a repository file, you can use any name.repo)   
+`gedit docker.repo` 
+![make docker repo](https://github.com/xavier9909/hacktools/blob/master/create%20docker%20repository.png)
+* In the docker.repo paste this this url (https://download.docker.com/linux/centos/7/x86_64/stable/) and type
+![content of docker repo](https://github.com/xavier9909/hacktools/blob/master/content%20of%20docker%20repository.png)
+* Run
+`yum install docker-ce --nobest` 
+![install docker](https://github.com/xavier9909/hacktools/blob/master/cmd%20to%20install%20docker.png)
+* ## To verify 
+`docker version` 
+![verify](https://github.com/xavier9909/hacktools/blob/master/verify%20docker%20version.png)
+* ## Start Docker
+```
+systemctl start docker
+`systemctl enable docker
+```
+![demo](https://github.com/xavier9909/hacktools/blob/master/start%20n%20enable%20docker.png)
+
  
  
  
