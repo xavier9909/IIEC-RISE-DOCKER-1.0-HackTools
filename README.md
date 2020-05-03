@@ -41,7 +41,8 @@ systemctl start docker
 *INSTALL DOCKER TOOLBOX
  *LINK:::(https://github.com/docker/toolbox/releases)
  ![DEMO](https://github.com/xavier9909/hacktools/blob/master/2020-05-03.png)
- *AFTER THAT RUB .EXE FILE INSTALL IT
+ *AFTER THAT RUN .EXE FILE INSTALL IT
+ 
  ![DEMO](https://docs.docker.com/toolbox/images/installer_open.png)
 
  
