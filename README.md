@@ -97,5 +97,14 @@ docker pull xavier9909/hacktoools:1
  * It can be customized to add or remove specific tools
  * It can run in very low-end pc without any problm
  
- 
+ # Reference
+* IIEC RISE 1.0 DOCKER (https://www.youtube.com/watch?v=3Kn6_b-1mK4&list=PLAi9X1uG6jZ30QGz7FZ55A27jPeY8EwkE) 
+* IIEC CONNECT 1.0 (https://www.youtube.com/channel/UCtY-JhEZ3iPLtozWGgd2efQ)
+* Google (https://www.google.com/)
+* RedHat 8 (https://developers.redhat.com/rhel8/)
+* Docker (https://docs.docker.com/docker-hub/official_images/)
+* ngrok (https://ngrok.com/)
+ # Author
+  Kajal Kashyap
+  Shubham Meena
 
