@@ -108,6 +108,6 @@ docker pull xavier9909/hacktoools:1
 * Docker (https://docs.docker.com/docker-hub/official_images/)
 
  # Author
-  
+  * Kajal Kashyap
   * Shubham Meena
 
